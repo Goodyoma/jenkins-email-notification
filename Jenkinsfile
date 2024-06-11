@@ -11,7 +11,7 @@ pipeline {
     stages('Sending'){
            steps{
              script{
-               echo About to send the email'
+               echo 'About to send the email'
              }
            }
     }

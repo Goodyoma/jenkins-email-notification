@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         // Define email-related environment variables
-        RECIPIENTS = 'goodnessm508@gmail.com/guddytechs@gmail.com'
+        RECIPIENTS = 'goodnessm508@gmail.com/guddytechs@gmail.com/goodyoma33@gmail.com/estheroyinye011@gmail/danielofurutech@gmail.com'
     }
 
     stages {
